@@ -4,8 +4,8 @@ body {
 }
 
 img.mary {
-  display:block;
-  margin:0px auto;
+  position:relative;
+  left:300px;
 }
 
 p {

@@ -3,6 +3,10 @@ body {
   background-color:#81DCBB;
 }
 
+img.mary {
+  float:right;
+}
+
 p {
   font-style:italic;
 }

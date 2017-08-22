@@ -10,7 +10,3 @@ p {
 h1, h2 {
   text-decoration: underline;
 }
-
-h1, h2, h3, p {
-  padding: 0px 50px;
-}

@@ -10,11 +10,12 @@ img.mary {
 
 p {
   font-style:italic;
+  padding: 70px;
 }
 
 h1, h2 {
   text-decoration: underline;
   
-  h1, h2, h3, p {
+  h1, h2, h3, {
     padding: 40px;
 }

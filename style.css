@@ -8,6 +8,11 @@ img.Maryimage {
   height:406px;
   display:inline-block;
   margin: 0px 0px 0px 1000px;
+  z-index:2;
+}
+
+h1, h2, h3, li {
+  z-index:1;
 }
 
 h1 {

@@ -6,8 +6,7 @@ body {
 img.maryimage {
   width:406px;
   height:406px;
-  position:relative;
-  left:70px;
+  align:right;
 }
 
 h1 {

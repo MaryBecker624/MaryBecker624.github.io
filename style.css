@@ -4,8 +4,10 @@ body {
 }
 
 img.maryimage {
-  z-index:1;
-  float:right;
+  width:406px;
+  height:406px;
+  display:inline-block;
+  margin:0px 0px 0px 40px;
 }
 
 h1 {

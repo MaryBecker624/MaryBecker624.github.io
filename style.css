@@ -6,7 +6,7 @@ body {
 img.Maryimage {
   width:406px;
   height:406px;
-  display:block;
+  display:inline-block;
   margin: 0px 0px 0px 1000px;
 }
 

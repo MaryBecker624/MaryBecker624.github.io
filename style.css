@@ -3,6 +3,11 @@ body {
   background-color:#81DCBB;
 }
 
+img.maryimage {
+  z-index:1;
+  position:right;
+}
+
 h1 {
   line-height: 2.5em;
 }

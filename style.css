@@ -9,6 +9,7 @@ img.Maryimage {
   float:right;
   z-index:2;
   padding: 20px;
+  border:1px solid;
 }
 
 h1, h2, h3, li {

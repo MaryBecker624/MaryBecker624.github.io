@@ -5,7 +5,7 @@ body {
 
 img.maryimage {
   z-index:1;
-  position:right;
+  float:right;
 }
 
 h1 {

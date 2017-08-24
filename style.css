@@ -28,6 +28,10 @@ li {
   font-style:italic;
 }
 
+p {
+  padding-left:20px;
+}
+
 h1, h2 {
   text-decoration: underline;
 }

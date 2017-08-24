@@ -1,6 +1,7 @@
 body {
   font-family: Palatino, serif;
   background-color:#81DCBB;
+  padding-bottom:40px;
 }
 
 img.Maryimage {
@@ -29,8 +30,4 @@ li {
 
 h1, h2 {
   text-decoration: underline;
-}
-
-div.hornist {
-  padding-bottom:40px;
 }
